@@ -1,6 +1,6 @@
 # Clue-Analysis
 
-###Goal of the Program:
+### Goal of the Program:
 
 To keep track of all the information given during a Clue game and combinatorically calculate the probability of each possible combination of cards being in the gamestack after making all possible inferences. 
 
